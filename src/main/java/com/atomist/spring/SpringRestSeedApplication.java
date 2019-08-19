@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 
 // new comment
+// adding another comment
 @SpringBootApplication
 public class SpringRestSeedApplication {
 
